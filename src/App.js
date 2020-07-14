@@ -5,7 +5,7 @@ import HomePage from './pages/HomePage';
 import ProfilePage from './pages/ProfilePage';
 import { Switch, Route } from 'react-router-dom';
 import NavBar from './components/NavBar';
-import FormPage from './components/SignUpForm';
+// import FormPage from './components/SignUpForm';
 import { ToastContainer } from 'react-toastify';
 import MyProfile from "./pages/MyProfile"
 
